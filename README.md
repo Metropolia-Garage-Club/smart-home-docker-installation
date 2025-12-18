@@ -322,3 +322,11 @@ Go to settings ➡️ Devices and services. There you should see entities undern
 🔴 Future improvement! The entities don't appear to belong to any device. Most likely this could be configured in the **mqtt.yaml** file. 
 
 <br><br>
+
+# Sensor Integration
+
+Plug the device to the wifi router and assign a static IP address using router web interface.
+
+- [Home Assistant](sensor_integration/md_files/home_assistant.md)
+- [SLZB-MR1 coordinator](sensor_integration/md_files/zigbeecoordinator.md)
+- [Zigbee2MQTT](sensor_integration/md_files/zigbee2mqtt.md)
