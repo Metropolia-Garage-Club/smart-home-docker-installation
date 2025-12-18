@@ -43,4 +43,4 @@ Edit the **Post message** settings for the chat or chanenel, and finally click s
 
 ![pop up in HA](../images/webhook_automation.png)
 
-[⬅️ Back to Home](../../README.md)
+[⬅️ Back to Home Assistant Automations](automations.md)

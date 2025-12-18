@@ -20,4 +20,4 @@ Final look after adding all sensors👇
 
 ![door window sensr](../images/all_zigbee_sensors.png)
 
-[⬅️ Back to Home](../../README.md)
+[⬅️ Back to Home Assistant Documentaion](home_assistant.md)

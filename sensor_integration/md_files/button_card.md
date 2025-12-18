@@ -43,4 +43,4 @@ Final look 👇
 
 ![pop up in HA](../images/button_card.png)
 
-[⬅️ Back to Home](../../README.md)
+[⬅️ Back to Home Assistant Documentaion](home_assistant.md)

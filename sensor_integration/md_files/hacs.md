@@ -16,4 +16,4 @@ Settings -> Dashboard -> Three dots -> /hacsfiles/check-button-card/check-button
 
 if you don't see this URL, click **Add resource** and add the newly added card
 
-[⬅️ Back to Home](../../README.md)
+[⬅️ Back to Home Assistant Documentaion](home_assistant.md)

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=lzCSpqEiOPY
 https://youtu.be/4ojCDWrNzR0?si=mUQcRrw68Sc5ppfb
 
 
-[⬅️ Back to Home](../../README.md)
+[⬅️ Back to Home Assistant Documentaion](home_assistant.md)

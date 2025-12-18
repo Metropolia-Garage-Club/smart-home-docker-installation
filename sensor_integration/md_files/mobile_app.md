@@ -9,4 +9,4 @@
 
 Example url: 👉 http://ip_address:8123/
 
-[⬅️ Back to Home](../../README.md)
+[⬅️ Back to Home Assistant Documentaion](home_assistant.md)
