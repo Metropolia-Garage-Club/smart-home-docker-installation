@@ -16,4 +16,4 @@ Steps to edit the dashboard:
 - If you are using the **overview** type, you need to **take control** to edit the dashboard(by default, it is owned by home assistant)
 - In edit mode, you can add cards (Everything on a dashboard is a card)
 
-[⬅️ Back to Home](../../README.md)
+[⬅️ Back to Home Assistant Documentaion](home_assistant.md)

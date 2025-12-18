@@ -3,7 +3,6 @@
 - [Home Assistant Button card](./button_card.md)
 - [Home Assistant Dashboard](./dashboard.md)
 - [HA Mobile app configuration](./mobile_app.md)
-- [Modifying vibration sensor default settings](./editing_vibration_sensor.md)
 - [Add zigbee sensors](./zigbee_sensors.md)
 - [Add other sensors](./other_sensors.md)
 - [HACS configuration](./hacs.md)

@@ -69,4 +69,4 @@ mode: single
 
 If you use UI then you can select the device. But for yaml you need the device id. You can get it from the zigbee2mqtt web interface if it is a zigbee device.
 
-[⬅️ Back to Home](../../README.md)
+[⬅️ Back to Home Assistant Automations](automations.md)
